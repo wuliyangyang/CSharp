@@ -1,0 +1,34 @@
+2019-08-19 17:14:00,263 [9] DEBUG AppServer-26966483 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 17:14:41,809 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 17:16:10,072 [8] DEBUG AppServer-59835590 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 17:20:36,097 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 17:22:03,805 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 17:22:39,371 [9] DEBUG AppServer-51348210 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 17:22:40,733 [9] DEBUG AppServer-51348210 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 17:35:40,343 [8] DEBUG AppServer-59835590 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 18:18:02,388 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 18:25:51,307 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 18:25:53,494 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 18:25:56,016 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) failed to start
+2019-08-19 18:26:02,913 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:26:13,409 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:27:10,843 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:27:12,722 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:28:11,615 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:28:13,378 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:28:14,313 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:28:15,778 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:28:20,117 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:28:21,391 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:28:22,375 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:28:26,016 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:28:34,978 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:29:04,323 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:29:16,932 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:29:27,996 [10] DEBUG AppServer-44419000 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:31:43,358 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:31:47,883 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:33:17,971 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:33:23,883 [9] DEBUG AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) was stoppped
+2019-08-19 18:35:23,881 [9] DEBUG AppServer-11328498 [(null)]  - Listener (127.0.0.1:8888) was started
+2019-08-19 18:35:29,030 [9] DEBUG AppServer-11328498 [(null)]  - Listener (127.0.0.1:8888) was stoppped

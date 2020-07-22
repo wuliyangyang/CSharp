@@ -1,0 +1,10 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\bin\Debug\NetMQTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\bin\Debug\NetMQTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\bin\Debug\NetMQTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.Form2.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\NetMQTest\obj\Debug\NetMQTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+2019-06-28 10:29:59,497 [10] INFO  RollingLogFileAppender [(null)]  - Bind sever address:tcp://127.0.0.1:6721 successful
+2019-06-28 10:29:59,588 [10] INFO  RollingLogFileAppender [(null)]  - Bind sever address:tcp://127.0.0.1:6722 successful
+2019-06-28 10:29:59,613 [10] INFO  RollingLogFileAppender [(null)]  - Connect to  sever address:tcp://127.0.0.1:6720 successful
+2019-06-28 10:29:59,615 [10] INFO  RollingLogFileAppender [(null)]  - Connect to  sever address:tcp://127.0.0.1:6720 successful

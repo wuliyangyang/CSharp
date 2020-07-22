@@ -1,0 +1,11 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\bin\Debug\log4net.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\bin\Debug\ServerTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\bin\Debug\LogToolLib.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache

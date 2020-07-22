@@ -1,0 +1,10 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\bin\Debug\SSHTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\bin\Debug\SSHTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\bin\Debug\SSHTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\bin\Debug\Renci.SshNet.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\bin\Debug\Renci.SshNet.xml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\obj\Debug\SSHTest.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\obj\Debug\SSHTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\obj\Debug\SSHTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\obj\Debug\SSHTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\SSHTest\obj\Debug\SSHTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MutexTest\bin\Debug\MutexTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MutexTest\bin\Debug\MutexTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MutexTest\bin\Debug\MutexTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MutexTest\obj\Debug\MutexTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MutexTest\obj\Debug\MutexTest.pdb

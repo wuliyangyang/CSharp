@@ -1,0 +1,159 @@
+2019-08-19 10:55:33,021 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:33,606 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:34,076 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:34,356 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:34,546 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:34,736 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:55:34,856 [10] INFO  InfoRollingFileAppender [(null)]  - recv data:hello
+
+2019-08-19 10:57:30,348 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 10:57:36,897 [9] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 10:57:42,912 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 10:58:18,527 [12] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 15:25:19,015 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 15:27:22,342 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 15:36:53,981 [6] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 15:55:31,331 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 15:56:29,006 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 15:56:47,222 [11] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 16:08:35,114 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 16:08:41,581 [9] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 16:08:48,011 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 16:08:51,759 [9] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 16:08:54,766 [12] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 16:08:58,567 [9] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 17:16:11,605 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:16:14,710 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:16:15,961 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:16:26,993 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:20:36,123 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been started!
+2019-08-19 17:20:36,126 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 17:22:05,060 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:12,380 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:13,494 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:14,183 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:14,363 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:14,534 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:14,709 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:14,922 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:15,144 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:15,355 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:15,528 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:15,717 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:15,867 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,063 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,217 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,401 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,565 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,729 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:16,897 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:26,422 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:22:39,372 [9] INFO  AppServer-51348210 [(null)]  - The server instance AppServer-51348210 has been started!
+2019-08-19 17:22:39,374 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 17:22:40,735 [9] INFO  AppServer-51348210 [(null)]  - The server instance AppServer-51348210 has been stopped!
+2019-08-19 17:35:41,494 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:42,405 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:48,647 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:49,440 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:49,848 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,018 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,179 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,340 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,502 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,665 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,807 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:50,980 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:51,131 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:51,307 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:51,474 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:51,633 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 17:35:51,766 [8] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 18:18:09,239 [9] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 18:26:02,916 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been started!
+2019-08-19 18:26:02,932 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:26:13,411 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been stopped!
+2019-08-19 18:27:10,865 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:27:10,868 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:27:12,725 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:27:22,598 [10] INFO  InfoRollingFileAppender [(null)]  - The server has been initialized already, you cannot initialize it again!
+2019-08-19 18:28:11,642 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:28:11,645 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:28:13,381 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:28:14,315 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:28:14,316 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:28:15,780 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:28:20,118 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:28:20,121 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:28:21,394 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:28:22,376 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:28:22,377 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:28:26,018 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:28:34,980 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:28:34,982 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:29:02,571 [14] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:29:02,594 [13] INFO  AppServer-44419000 [(null)]  - Session: 22aa8388-3806-4130-b664-e7401792256e/127.0.0.1:49300
+A new session connected!
+2019-08-19 18:29:02,620 [6] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:29:04,326 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:29:04,330 [15] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 18:29:04,333 [16] INFO  AppServer-44419000 [(null)]  - Session: 22aa8388-3806-4130-b664-e7401792256e/127.0.0.1:49300
+This session was closed for ServerShutdown!
+2019-08-19 18:29:04,336 [6] INFO  InfoRollingFileAppender [(null)]  - Session ClosedServerShutdown
+2019-08-19 18:29:16,934 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been started!
+2019-08-19 18:29:16,935 [10] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:29:18,511 [15] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:29:18,512 [14] INFO  AppServer-44419000 [(null)]  - Session: db5f5297-990f-4e50-84f7-e34102d48169/127.0.0.1:49304
+A new session connected!
+2019-08-19 18:29:18,514 [6] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:29:20,206 [10] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 18:29:20,209 [6] INFO  AppServer-44419000 [(null)]  - Session: db5f5297-990f-4e50-84f7-e34102d48169/127.0.0.1:49304
+This session was closed for ClientClosing!
+2019-08-19 18:29:20,210 [11] INFO  InfoRollingFileAppender [(null)]  - Session ClosedClientClosing
+2019-08-19 18:29:25,963 [18] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:29:25,963 [14] INFO  AppServer-44419000 [(null)]  - Session: 5de4adaa-dcf3-49c6-924a-108ebeb38b83/127.0.0.1:49305
+A new session connected!
+2019-08-19 18:29:25,966 [6] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:29:27,997 [10] INFO  AppServer-44419000 [(null)]  - The server instance AppServer-44419000 has been stopped!
+2019-08-19 18:29:27,999 [16] INFO  AppServer-44419000 [(null)]  - Session: 5de4adaa-dcf3-49c6-924a-108ebeb38b83/127.0.0.1:49305
+This session was closed for ServerShutdown!
+2019-08-19 18:29:27,999 [18] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 18:29:28,000 [11] INFO  InfoRollingFileAppender [(null)]  - Session ClosedServerShutdown
+2019-08-19 18:31:43,384 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been started!
+2019-08-19 18:31:43,386 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:31:46,292 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:31:46,309 [14] INFO  AppServer-3888474 [(null)]  - Session: ca805c0c-16c6-4e43-811d-b2fdd2cdb33e/127.0.0.1:49427
+A new session connected!
+2019-08-19 18:31:46,325 [10] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:31:47,885 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been stopped!
+2019-08-19 18:31:47,892 [15] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 18:31:47,895 [13] INFO  AppServer-3888474 [(null)]  - Session: ca805c0c-16c6-4e43-811d-b2fdd2cdb33e/127.0.0.1:49427
+This session was closed for ServerShutdown!
+2019-08-19 18:31:47,898 [10] INFO  InfoRollingFileAppender [(null)]  - Session ClosedServerShutdown
+2019-08-19 18:33:17,993 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been started!
+2019-08-19 18:33:17,996 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:33:21,588 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:33:21,612 [14] INFO  AppServer-3888474 [(null)]  - Session: b67c4e35-0d42-4678-a5f5-4a1eef821275/127.0.0.1:49559
+A new session connected!
+2019-08-19 18:33:21,617 [10] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:33:23,886 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been stopped!
+2019-08-19 18:33:23,891 [15] INFO  InfoRollingFileAppender [(null)]  - System.EventArgs
+2019-08-19 18:33:23,897 [10] INFO  AppServer-3888474 [(null)]  - Session: b67c4e35-0d42-4678-a5f5-4a1eef821275/127.0.0.1:49559
+This session was closed for ServerShutdown!
+2019-08-19 18:33:23,899 [13] INFO  InfoRollingFileAppender [(null)]  - Session ClosedServerShutdown
+2019-08-19 18:35:23,884 [9] INFO  AppServer-11328498 [(null)]  - The server instance AppServer-11328498 has been started!
+2019-08-19 18:35:23,886 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-19 18:35:26,639 [11] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-19 18:35:26,651 [10] INFO  AppServer-11328498 [(null)]  - Session: 3143ab53-ffc7-439f-8933-908c330b6ea4/127.0.0.1:49685
+A new session connected!
+2019-08-19 18:35:26,665 [12] INFO  InfoRollingFileAppender [(null)]  - New Session Connected
+2019-08-19 18:35:29,032 [9] INFO  AppServer-11328498 [(null)]  - The server instance AppServer-11328498 has been stopped!
+2019-08-19 18:35:29,036 [14] INFO  InfoRollingFileAppender [(null)]  - server disconnect!!!
+2019-08-19 18:35:29,039 [15] INFO  AppServer-11328498 [(null)]  - Session: 3143ab53-ffc7-439f-8933-908c330b6ea4/127.0.0.1:49685
+This session was closed for ServerShutdown!
+2019-08-19 18:35:29,042 [12] INFO  InfoRollingFileAppender [(null)]  - Session ClosedServerShutdown

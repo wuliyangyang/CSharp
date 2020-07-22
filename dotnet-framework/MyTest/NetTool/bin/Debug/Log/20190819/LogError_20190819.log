@@ -1,0 +1,60 @@
+2019-08-19 16:07:59,075 [10] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。
+2019-08-19 17:11:56,225 [11] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。
+2019-08-19 17:13:36,472 [10] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。
+2019-08-19 17:13:42,333 [11] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。
+2019-08-19 17:13:46,008 [11] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。
+2019-08-19 17:14:00,242 [9] ERROR AppServer-26966483 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 17:14:00,264 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 17:14:41,772 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 17:14:41,811 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 17:16:10,028 [8] ERROR AppServer-59835590 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 17:16:10,074 [8] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 17:22:03,764 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 17:22:03,807 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 17:35:40,285 [8] ERROR AppServer-59835590 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 17:35:40,345 [8] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 18:18:02,343 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 18:18:02,390 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 18:25:51,263 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 18:25:51,309 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 18:25:53,492 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 18:25:53,495 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 18:25:56,015 [9] ERROR AppServer-3888474 [(null)]  - Listener (127.0.0.1:8888) error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+System.Net.Sockets.SocketException (0x80004005): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+   在 System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   在 SuperSocket.SocketEngine.TcpAsyncSocketListener.Start(IServerConfig config)
+2019-08-19 18:25:56,017 [9] ERROR ErrorRollingFileAppender [(null)]  - Failed to Start
+2019-08-19 18:35:21,186 [10] ERROR ErrorRollingFileAppender [(null)]  - 由于目标计算机积极拒绝，无法连接。

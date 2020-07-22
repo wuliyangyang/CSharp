@@ -1,0 +1,12 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.FormDock.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\bin\Debug\DockPanelControlTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\bin\Debug\DockPanelControlTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\bin\Debug\DockPanelControlTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\DockPanelControlTest\obj\Debug\DockPanelControlTest.csprojResolveAssemblyReference.cache

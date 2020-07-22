@@ -1,0 +1,1 @@
+2019-06-27 16:46:53,650 [8] ERROR ErrorRollingFileAppender [(null)]  - Bind sever address:@tcp://127.0.0.1:6721fail;[error]:Invalid protocol: @tcp

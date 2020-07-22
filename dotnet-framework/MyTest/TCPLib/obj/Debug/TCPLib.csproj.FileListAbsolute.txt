@@ -1,0 +1,9 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\bin\Debug\TCPLib.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\bin\Debug\TCPLib.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\bin\Debug\TCPLib.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\TCPLib\obj\Debug\TCPLib.pdb

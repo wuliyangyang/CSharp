@@ -1,0 +1,1 @@
+2019-07-29 15:59:13,783 [9] ERROR ErrorRollingFileAppender [(null)]  - Disconnect sever address:tcp://127.0.0.1:6720fail;[error]:未将对象引用设置到对象的实例。

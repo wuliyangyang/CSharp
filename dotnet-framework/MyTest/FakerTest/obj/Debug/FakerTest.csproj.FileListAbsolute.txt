@@ -1,0 +1,8 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\bin\Debug\FakerTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\bin\Debug\FakerTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\bin\Debug\FakerTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\bin\Debug\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\bin\Debug\Faker.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\obj\Debug\FakerTest.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\obj\Debug\FakerTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\FakerTest\obj\Debug\FakerTest.pdb

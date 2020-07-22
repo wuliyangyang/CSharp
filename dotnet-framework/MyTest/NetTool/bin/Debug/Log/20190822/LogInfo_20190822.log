@@ -1,0 +1,22 @@
+2019-08-22 10:23:28,157 [9] INFO  AppServer-25209742 [(null)]  - The server instance AppServer-25209742 has been started!
+2019-08-22 10:23:28,159 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-22 10:23:29,528 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-22 10:23:29,539 [12] INFO  AppServer-25209742 [(null)]  - Session: fec195eb-8086-4d51-b2c1-bb0d47803327/127.0.0.1:52106
+A new session connected!
+2019-08-22 10:23:29,543 [14] INFO  InfoRollingFileAppender [(null)]  - New Session Connected 127.0.0.1:52106
+2019-08-22 10:23:37,770 [13] INFO  InfoRollingFileAppender [(null)]  - recv data:hello!!
+
+2019-08-22 10:23:37,922 [13] INFO  InfoRollingFileAppender [(null)]  - recv data:hello!!
+
+2019-08-22 10:23:38,075 [13] INFO  InfoRollingFileAppender [(null)]  - recv data:hello!!
+
+2019-08-22 10:23:38,232 [12] INFO  InfoRollingFileAppender [(null)]  - recv data:hello!!
+
+2019-08-22 10:23:38,359 [12] INFO  InfoRollingFileAppender [(null)]  - recv data:hello!!
+
+2019-08-22 10:23:47,952 [14] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!
+2019-08-22 10:23:48,105 [16] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!
+2019-08-22 10:23:48,275 [15] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!
+2019-08-22 10:23:48,413 [14] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!
+2019-08-22 10:23:48,567 [15] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!
+2019-08-22 10:23:48,705 [14] INFO  InfoRollingFileAppender [(null)]  - New Request Received dataStr:hello!!

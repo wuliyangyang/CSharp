@@ -1,0 +1,11 @@
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\bin\Debug\Queen.exe.config
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\bin\Debug\Queen.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\bin\Debug\Queen.pdb
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\obj\Debug\Queen.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\obj\Debug\Queen.pdb
+C:\Users\wiliyangyang\documents\visual studio 2015\Projects\练习\Queen\obj\Debug\Queen.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\Queen\bin\Debug\Queen.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\Queen\bin\Debug\Queen.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\Queen\bin\Debug\Queen.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\Queen\obj\Debug\Queen.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\Queen\obj\Debug\Queen.pdb

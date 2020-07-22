@@ -1,0 +1,10 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\bin\Debug\MouseTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\bin\Debug\MouseTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\bin\Debug\MouseTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\MouseTest\obj\Debug\MouseTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\bin\Debug\声卡扫描测试.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\bin\Debug\声卡扫描测试.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\bin\Debug\声卡扫描测试.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\obj\Debug\声卡扫描测试.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\obj\Debug\声卡扫描测试.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\声卡扫描测试\obj\Debug\声卡扫描测试.pdb

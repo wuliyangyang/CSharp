@@ -1,0 +1,8 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\bin\Debug\AlarmDoor.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\bin\Debug\AlarmDoor.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\bin\Debug\AlarmDoor.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\obj\Debug\AlarmDoor.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\obj\Debug\AlarmDoor.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\obj\Debug\AlarmDoor.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\obj\Debug\AlarmDoor.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\AlarmDoor\obj\Debug\AlarmDoor.pdb

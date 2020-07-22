@@ -1,0 +1,9 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\bin\Debug\PlotTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\bin\Debug\PlotTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\bin\Debug\PlotTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\PlotTest\obj\Debug\PlotTest.pdb

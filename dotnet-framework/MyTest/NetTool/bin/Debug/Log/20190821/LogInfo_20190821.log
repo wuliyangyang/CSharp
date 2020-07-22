@@ -1,0 +1,6 @@
+2019-08-21 10:05:32,317 [9] INFO  AppServer-3888474 [(null)]  - The server instance AppServer-3888474 has been started!
+2019-08-21 10:05:32,324 [9] INFO  InfoRollingFileAppender [(null)]  - start server -->>ip:127.0.0.1,port:8888
+2019-08-21 10:05:33,504 [10] INFO  InfoRollingFileAppender [(null)]  - connect to server ip:127.0.0.1 port:8888
+2019-08-21 10:05:33,529 [12] INFO  AppServer-3888474 [(null)]  - Session: dd324c88-9f0f-42ec-aec0-415701787f89/127.0.0.1:53007
+A new session connected!
+2019-08-21 10:05:33,555 [14] INFO  InfoRollingFileAppender [(null)]  - New Session Connected 127.0.0.1:53007

@@ -1,0 +1,8 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\bin\Debug\ProcessTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\bin\Debug\ProcessTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\bin\Debug\ProcessTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\obj\Debug\ProcessTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\obj\Debug\ProcessTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\obj\Debug\ProcessTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\obj\Debug\ProcessTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ProcessTest\obj\Debug\ProcessTest.pdb

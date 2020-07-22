@@ -1,0 +1,9 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\bin\Debug\ChartControlTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\bin\Debug\ChartControlTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\bin\Debug\ChartControlTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\ChartControlTest\obj\Debug\ChartControlTest.pdb

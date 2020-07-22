@@ -1,0 +1,15 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\BitPanel.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\BitPanel.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\BitPanel.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.UserControls.BitForm.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.Forms.ConfigForm.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\CSkin.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\DMSkin.Core.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\DMSkin.WPF.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\bin\Debug\CSkin.xml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyTest\BitPanel\obj\Debug\BitPanel.csprojResolveAssemblyReference.cache
