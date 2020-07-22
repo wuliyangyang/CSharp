@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Consul" Version="0.7.2.6" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+    <PackageReference Include="SwashBuckle.AspNetCore.MicrosoftExtensions" Version="0.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YY.EF.Core.Interface\YY.EF.Core.Interface.csproj" />
+    <ProjectReference Include="..\YY.EF.Core.Model\YY.EF.Core.Model.csproj" />
+    <ProjectReference Include="..\YY.EF.Core.Service\YY.EF.Core.Service.csproj" />
+    <ProjectReference Include="..\YY.Framework\YY.Framework.csproj" />
+    <ProjectReference Include="..\YY.Web.Core\YY.Web.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

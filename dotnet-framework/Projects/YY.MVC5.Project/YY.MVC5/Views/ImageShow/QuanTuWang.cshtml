@@ -1,0 +1,27 @@
+﻿@using YY.EF.Models;
+@using PagedList.Mvc;
+@using PagedList;
+@using System.Web.Mvc.Html;
+
+@model StaticPagedList<QuanTuWang>
+
+@{
+    ViewBag.Title = "QuanTuWang";
+}
+
+@using (Html.BeginForm("QuanTuWang", "ImageShow"))
+{
+    <h2>
+        <a href="~/ImageName/index/?group=@ViewBag.Category">全图-@ViewBag.Category</a>
+    </h2>
+    <h3>
+        @ViewBag.ImageTitle (@Model.PageNumber)
+    </h3>
+    <div id="partialajaxlist">
+        <img src=@Url.Action("GetImage",new { pageIndex = Model.PageNumber}) />
+        <br>
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+        @Html.PagedListPager(Model, pageIndex => Url.Action("QuanTuWang",
+        new { pageIndex ,title=ViewBag.ImageTitle}))
+    </div>
+}

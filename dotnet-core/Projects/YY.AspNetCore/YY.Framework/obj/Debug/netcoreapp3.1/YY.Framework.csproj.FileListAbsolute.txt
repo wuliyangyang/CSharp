@@ -1,0 +1,8 @@
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\obj\Debug\netcoreapp3.1\YY.Framework.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\obj\Debug\netcoreapp3.1\YY.Framework.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\bin\Debug\netcoreapp3.1\YY.Framework.deps.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\bin\Debug\netcoreapp3.1\YY.Framework.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\bin\Debug\netcoreapp3.1\YY.Framework.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\obj\Debug\netcoreapp3.1\YY.Framework.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\obj\Debug\netcoreapp3.1\YY.Framework.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\obj\Debug\netcoreapp3.1\YY.Framework.csprojAssemblyReference.cache

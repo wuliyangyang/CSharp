@@ -1,0 +1,67 @@
+﻿@using YY.EF.Models;
+@using PagedList.Mvc;
+@using PagedList;
+@using System.Web.Mvc.Razor;
+@using System.Web.Mvc.Html;
+
+@model StaticPagedList<ImageTitle>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm("Index", "ImageName"))
+{
+    <p>
+        <a href="~/Views/ImageName/Index">友情链接</a>
+        <br>
+        Find by Condition Key Words:
+        @Html.TextBox("searchString", ViewBag.SearchString as string, new { @class = "form-control", @Style = "display:inline" })
+        GroupName:
+        @Html.TextBox("group", ViewBag.Group as string, new { @class = "form-control", @Style = "display:inline" })
+        @*@Html.Submit("查询")*@
+        <input type="submit" value="查询" />
+    </p>
+<div id="partialajaxlist">
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>标题</th>
+            <th width="100px">数量</th>
+            <th width="100px">类别</th>
+            <th>Action</th>
+            <th>@*@Html.ActionLink("价格", "Index", new { orderBy = ViewBag.OrderBy, searchString = ViewBag.SearchString, page = 1 })*@</th>
+        </tr>
+        @*前后混编，前后分离 MVVM vue *@
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @*//强类型 可以展示display*@
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    <a href="~/ImageShow/index/?title=@item.ImageTitle1.Trim()&group=@item.ImageGroup.Trim()">@item.ImageTitle1-@item.ImageGroup</a>
+                </td>
+                <td>
+                    @item.TotalCount
+                </td>
+                <td>
+                    <a href="~/ImageName/index/?group=@item.ImageGroup.Trim()">@item.ImageGroup</a>
+                </td>
+                <td>
+                    <a href="~/ImageShow/Index/?title=@item.ImageTitle1.Trim()&group=@item.ImageGroup">Details</a>|
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }) |
+                </td>
+                @*<input type="button" value="go">*@
+            </tr>
+        }
+    </table>
+    @*@Html.Br()*@
+    <br>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, pageIndex => Url.Action("Index",
+    new { pageIndex, searchString = ViewBag.SearchString, group = ViewBag.Group }))
+    @*@Html.PagedListPager(Model, pageIndex => $"/ImageName/Index?pageIndex={pageIndex}&searchString={base.ViewBag.SearchString}")*@
+</div>
+}

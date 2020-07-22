@@ -1,0 +1,215 @@
+2020-05-19 17:21:51,016 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.TypeLoadException: Could not load type 'Microsoft.AspNetCore.Mvc.MvcJsonOptions' from assembly 'Microsoft.AspNetCore.Mvc.Formatters.Json, Version=3.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.get_Signature()
+   at System.Reflection.RuntimeConstructorInfo.GetParametersNoCopy()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2020-05-19 17:22:10,875 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.Int32.Parse(String s)
+   at YY.NetCore.WebApi.Consul.ConsulHelper.ConsulRegist(IConfiguration configuration) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.NetCore.WebApi\Consul\ConsulHelper.cs:line 23
+   at YY.NetCore.WebApi.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.NetCore.WebApi\Startup.cs:line 77
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2020-05-19 17:28:10,337 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.TypeLoadException: Could not load type 'Microsoft.AspNetCore.Mvc.MvcJsonOptions' from assembly 'Microsoft.AspNetCore.Mvc.Formatters.Json, Version=3.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.get_Signature()
+   at System.Reflection.RuntimeConstructorInfo.GetParametersNoCopy()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2020-05-19 17:32:48,414 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8800
+2020-05-19 17:32:48,423 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-19 17:32:48,424 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-05-19 17:32:48,425 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.NetCore.WebApi\bin\Debug\netcoreapp3.1
+2020-05-19 17:32:53,076 [10] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-05-19 17:32:53,120 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:33:05,161 [6] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:33:17,188 [6] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:33:29,204 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:33:41,213 [6] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:33:53,222 [6] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:34:05,231 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:34:17,241 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:34:29,254 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:34:41,273 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:34:53,305 [14] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:35:05,323 [15] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:35:17,332 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:35:29,353 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:35:41,361 [14] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:35:53,471 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:36:05,477 [18] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:36:17,483 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:36:29,493 [19] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:36:41,499 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:36:53,505 [19] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:37:05,512 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:37:17,536 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:37:29,546 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:37:41,566 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:37:53,589 [16] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:38:05,599 [22] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:38:17,609 [25] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:38:29,622 [25] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:38:41,634 [25] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:38:53,644 [22] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:39:05,653 [25] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:39:17,672 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:39:29,677 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:39:41,686 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:39:53,691 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:05,696 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:17,706 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:18,733 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8891
+2020-05-19 17:40:18,742 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-19 17:40:18,743 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-05-19 17:40:18,744 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.NetCore.WebApi\bin\Debug\netcoreapp3.1
+2020-05-19 17:40:28,519 [11] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-05-19 17:40:28,562 [11] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8891
+2020-05-19 17:40:29,719 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:40,575 [11] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8891
+2020-05-19 17:40:41,727 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:52,585 [13] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8891
+2020-05-19 17:40:53,747 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:40:57,991 [12] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2020-05-19 17:41:05,765 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:41:13,065 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8801
+2020-05-19 17:41:13,075 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-19 17:41:13,076 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-05-19 17:41:13,077 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.NetCore.WebApi\bin\Debug\netcoreapp3.1
+2020-05-19 17:41:17,773 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:41:18,154 [11] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-05-19 17:41:18,197 [11] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:41:29,780 [26] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:41:30,221 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:41:41,805 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:41:42,242 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:41:53,825 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:41:54,263 [11] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:42:05,834 [26] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:42:06,283 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:42:17,842 [40] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:42:18,297 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:42:21,657 [10] INFO  YY.NetCore.WebApi.Controllers.ImageUrlController - [MFStar]模范学院 VOL.226 Betty林子欣                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+2020-05-19 17:42:29,865 [40] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:42:30,303 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:42:41,873 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:42:42,309 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:42:53,879 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:42:54,320 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:43:05,897 [26] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:43:06,342 [8] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:43:17,901 [26] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:43:18,354 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:43:29,906 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:43:30,366 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:43:41,912 [43] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:43:42,370 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:43:53,917 [43] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:43:54,379 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:44:05,925 [26] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:44:06,386 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:44:17,930 [43] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:44:18,394 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:44:29,939 [43] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:44:30,405 [24] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:44:41,944 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:44:42,410 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:44:53,950 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:44:54,415 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:45:05,955 [46] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:45:06,422 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:45:17,959 [46] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:45:18,428 [10] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:45:29,968 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:45:30,433 [20] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:45:41,971 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:45:42,441 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:45:53,978 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:45:54,450 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:46:05,985 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:46:06,481 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:46:17,993 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:46:18,487 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:46:30,011 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:46:30,494 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:46:42,021 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:46:42,504 [29] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:46:54,030 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:46:54,508 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:47:06,037 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:47:06,518 [30] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:47:18,043 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:47:18,530 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:47:30,049 [54] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:47:30,536 [30] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:47:42,053 [42] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:47:42,542 [30] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:47:54,060 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:47:54,548 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:48:06,066 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:48:06,559 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:48:18,070 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:48:18,567 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:48:30,075 [43] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:48:30,572 [30] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:48:42,079 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:48:42,583 [30] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:48:54,083 [54] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:48:54,588 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:49:03,031 [54] INFO  YY.NetCore.WebApi.Controllers.ImageUrlController - [HuaYan]花の颜 VOL.050 谢芷馨Sindy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+2020-05-19 17:49:06,087 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:49:06,591 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:49:18,095 [54] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:49:18,598 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:49:18,885 [21] INFO  YY.NetCore.WebApi.Controllers.ImageUrlController - [MyGirl]美媛馆 VOL.161 熊吖BOBO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+2020-05-19 17:49:30,103 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:49:30,604 [28] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:49:39,366 [27] INFO  YY.NetCore.WebApi.Controllers.ImageUrlController - [MFStar]模范学院 VOL.200 妞妞koko                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+2020-05-19 17:49:41,582 [34] INFO  YY.NetCore.WebApi.Controllers.ImageUrlController - [MyGirl]美媛馆 VOL.223 许诺Sabrina                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+2020-05-19 17:49:42,111 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:49:42,609 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:49:54,117 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:49:54,613 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:50:06,138 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:50:06,618 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:50:18,144 [49] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:50:18,627 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:50:30,156 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:50:30,635 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:50:42,166 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:50:42,656 [12] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:50:54,177 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:50:54,663 [23] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:51:06,186 [27] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:51:06,672 [34] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:51:18,194 [54] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:51:18,680 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:51:30,199 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:51:30,690 [14] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:51:42,223 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:51:42,696 [15] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:51:54,232 [58] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:51:54,703 [16] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:52:06,242 [54] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:52:06,708 [16] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:52:18,254 [44] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:52:18,715 [16] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:52:30,264 [39] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8800
+2020-05-19 17:52:30,739 [21] WARN  YY.NetCore.WebApi.Controllers.HealthController - this is health check port 8801
+2020-05-19 17:52:34,697 [2] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2020-05-19 17:52:36,672 [2] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...

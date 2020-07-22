@@ -1,0 +1,11 @@
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\bin\Debug\netcoreapp3.1\YY.EF.Core.Model.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\bin\Debug\netcoreapp3.1\YY.EF.Core.Interface.deps.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\bin\Debug\netcoreapp3.1\YY.EF.Core.Interface.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\bin\Debug\netcoreapp3.1\YY.EF.Core.Interface.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\bin\Debug\netcoreapp3.1\YY.EF.Core.Model.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Interface\obj\Debug\netcoreapp3.1\YY.EF.Core.Interface.pdb

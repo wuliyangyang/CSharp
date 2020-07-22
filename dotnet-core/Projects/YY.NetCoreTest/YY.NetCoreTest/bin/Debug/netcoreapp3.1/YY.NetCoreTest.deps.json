@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "YY.NetCoreTest/1.0.0": {
+        "dependencies": {
+          "LinqLib": "1.0.0"
+        },
+        "runtime": {
+          "YY.NetCoreTest.dll": {}
+        }
+      },
+      "LinqLib/1.0.0": {
+        "runtime": {
+          "LinqLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YY.NetCoreTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

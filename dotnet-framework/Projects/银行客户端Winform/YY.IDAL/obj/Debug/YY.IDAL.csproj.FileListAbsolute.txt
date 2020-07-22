@@ -1,0 +1,8 @@
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\bin\Debug\YY.IDAL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\bin\Debug\YY.IDAL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\obj\Debug\YY.IDAL.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\obj\Debug\YY.IDAL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\obj\Debug\YY.IDAL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.IDAL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.IDAL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IDAL\obj\Debug\YY.IDAL.csprojAssemblyReference.cache

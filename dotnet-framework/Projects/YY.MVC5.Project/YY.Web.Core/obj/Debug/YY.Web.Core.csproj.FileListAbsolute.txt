@@ -1,0 +1,10 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Web.Core\bin\Debug\YY.Web.Core.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Web.Core\bin\Debug\YY.Web.Core.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Web.Core\bin\Debug\YY.Web.Core.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Web.Core\bin\Debug\YY.Web.Core.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Web.Core\obj\Debug\YY.Web.Core.csprojAssemblyReference.cache

@@ -1,0 +1,198 @@
+2020-03-22 11:54:23,738 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:5001
+2020-03-22 11:54:23,852 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2020-03-22 11:54:23,898 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 11:54:23,906 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 11:54:23,910 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 11:54:40,639 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:39:06,747 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:5001
+2020-03-22 13:39:06,791 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2020-03-22 13:39:06,804 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:39:06,810 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:39:06,815 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:39:11,712 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:40:17,815 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:40:17,832 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:40:17,835 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:40:19,927 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:40:35,803 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:40:39,466 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:42:35,552 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:42:35,563 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:42:35,565 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:42:37,096 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:53:42,825 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:53:42,845 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:53:42,852 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:53:44,944 [7] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:54:33,252 [18] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YY.AspNetCore.WebDemo.Controllers.LoginController.Login(String name, String password, String verify) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo\Controllers\LoginController.cs:line 28
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-22 13:55:37,109 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:55:37,126 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:55:37,134 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:55:38,691 [10] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 13:57:58,095 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at YY.AspNetCore.WebDemo.Controllers.LoginController.Login(String name, String password, String verify) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo\Controllers\LoginController.cs:line 28
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-22 13:58:38,066 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.Runtime.Serialization.SerializationException: Type 'YY.Web.Core.CurrentUser' in Assembly 'YY.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(Type type)
+   at System.Runtime.Serialization.FormatterServices.<>c.<GetSerializableMembers>b__5_0(MemberHolder mh)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Object obj, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, ObjectWriter objectWriter, SerializationBinder binder)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, BinaryFormatterWriter serWriter, Boolean fCheck)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph, Boolean check)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at YY.Framework.SessionExt.SessionExt.ObjectToBytes(Object obj) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\SessionExt\SessionExt.cs:line 53
+   at YY.Framework.SessionExt.SessionExt.SetObject(ISession session, String key, Object value) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.Framework\SessionExt\SessionExt.cs:line 36
+   at YY.AspNetCore.WebDemo.Controllers.LoginController.Login(String name, String password, String verify) in C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo\Controllers\LoginController.cs:line 38
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-22 13:59:27,827 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 13:59:27,844 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 13:59:27,847 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 13:59:29,576 [10] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:01:45,733 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:01:45,746 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:01:45,755 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:01:47,552 [9] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:04:04,413 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:04:04,432 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:04:04,443 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:04:06,336 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:07:49,821 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:07:49,837 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:07:49,840 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:07:51,426 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:09:19,296 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:09:19,320 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:09:19,323 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:09:21,266 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:10:53,413 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:10:53,429 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:10:53,432 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:10:55,004 [5] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:15:46,775 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:15:46,791 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:15:46,798 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:15:48,461 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:21:24,788 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:21:24,804 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:21:24,807 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:21:26,727 [9] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:22:09,224 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:22:09,247 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:22:09,252 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:22:11,025 [7] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:24:16,605 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:24:16,626 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:24:16,631 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:24:18,330 [8] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:28:54,897 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:28:54,928 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:28:54,934 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:28:56,842 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:32:29,199 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 14:32:29,214 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 14:32:29,221 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 14:32:30,882 [5] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 14:33:06,431 [4] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - [MyGirl]美媛馆 VOL.405 小樱baby                                                                          
+2020-03-22 16:59:57,524 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 16:59:57,543 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 16:59:57,550 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:01:58,426 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:01:58,446 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:01:58,450 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:06:52,610 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:06:52,629 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:06:52,634 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:08:39,101 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:08:39,121 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:08:39,126 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:11:34,950 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:11:34,978 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:11:34,986 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:17:52,199 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:17:52,219 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:17:52,225 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 17:19:36,523 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 17:19:36,542 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 17:19:36,549 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 20:09:11,065 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 20:09:11,099 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 20:09:11,110 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 20:23:00,972 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 20:23:00,997 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 20:23:01,004 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 20:30:57,238 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 20:30:57,271 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 20:30:57,280 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-03-22 20:48:39,595 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-03-22 20:48:39,614 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-03-22 20:48:39,618 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo

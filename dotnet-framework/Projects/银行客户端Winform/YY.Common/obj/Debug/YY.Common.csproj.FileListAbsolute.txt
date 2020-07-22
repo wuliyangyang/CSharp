@@ -1,0 +1,15 @@
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.Common.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.Common.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\obj\Debug\YY.Common.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\obj\Debug\YY.Common.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\obj\Debug\YY.Common.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.IBLL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.IDAL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.IBLL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.IDAL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\obj\Debug\YY.Common.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\obj\Debug\YY.Common.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.Model.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Common\bin\Debug\YY.Model.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.Common.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.Common.pdb

@@ -1,0 +1,8 @@
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.deps.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\bin\Debug\netcoreapp3.1\LinqLib.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\LinqLib\obj\Debug\netcoreapp3.1\LinqLib.pdb

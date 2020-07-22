@@ -1,0 +1,7 @@
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Model\bin\Debug\YY.Model.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Model\bin\Debug\YY.Model.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Model\obj\Debug\YY.Model.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Model\obj\Debug\YY.Model.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.Model\obj\Debug\YY.Model.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.Model.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\Libs\YY.Model.pdb

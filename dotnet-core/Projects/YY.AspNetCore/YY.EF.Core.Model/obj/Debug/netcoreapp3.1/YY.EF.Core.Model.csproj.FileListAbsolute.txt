@@ -1,0 +1,7 @@
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\bin\Debug\netcoreapp3.1\YY.EF.Core.Model.deps.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\bin\Debug\netcoreapp3.1\YY.EF.Core.Model.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\obj\Debug\netcoreapp3.1\YY.EF.Core.Model.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\obj\Debug\netcoreapp3.1\YY.EF.Core.Model.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\bin\Debug\netcoreapp3.1\YY.EF.Core.Model.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\obj\Debug\netcoreapp3.1\YY.EF.Core.Model.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.EF.Core.Model\obj\Debug\netcoreapp3.1\YY.EF.Core.Model.pdb

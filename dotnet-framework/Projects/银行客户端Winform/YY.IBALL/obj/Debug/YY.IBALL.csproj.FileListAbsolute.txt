@@ -1,0 +1,9 @@
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\bin\Debug\YY.IBALL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\bin\Debug\YY.IBALL.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\bin\Debug\YY.Model.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\bin\Debug\YY.Model.pdb
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\obj\Debug\YY.IBALL.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\obj\Debug\YY.IBALL.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\obj\Debug\YY.IBALL.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\obj\Debug\YY.IBALL.dll
+C:\Users\wuliyang\Source\Repos\银行客户端\YY.IBALL\obj\Debug\YY.IBALL.pdb

@@ -1,0 +1,14 @@
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.exe
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.deps.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.runtimeconfig.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.runtimeconfig.dev.json
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\YY.NetCoreTest.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\LinqLib.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\bin\Debug\netcoreapp3.1\LinqLib.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.NetCoreTest\YY.NetCoreTest\obj\Debug\netcoreapp3.1\YY.NetCoreTest.csproj.CopyComplete

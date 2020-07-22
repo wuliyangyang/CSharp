@@ -1,0 +1,26 @@
+2020-05-19 16:25:51,941 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-19 16:25:51,995 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-19 16:25:52,001 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-05-19 16:25:52,229 [11] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - currentUrl:/
+2020-05-19 16:27:19,729 [16] INFO  YY.AspNetCore.WebDemo.Controllers.LoginController - yy 已经登录。。。
+2020-05-19 16:27:19,750 [21] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - 用户yy登录系统！！
+2020-05-19 16:27:19,756 [21] INFO  YY.AspNetCore.WebDemo.Controllers.HomeController - Home Index
+2020-05-19 16:27:23,968 [16] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - 用户yy登录系统！！
+2020-05-19 16:30:01,375 [11] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - 用户yy登录系统！！
+2020-05-19 16:30:05,974 [11] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - 用户yy登录系统！！
+2020-05-19 16:30:06,273 [9] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - 用户yy登录系统！！
+2020-05-19 16:30:06,278 [9] INFO  YY.AspNetCore.WebDemo.Controllers.ImageShowController - FileContentResult 运行。。。
+2020-05-19 17:07:19,500 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.TypeLoadException: Could not load type 'Microsoft.AspNetCore.Mvc.MvcJsonOptions' from assembly 'Microsoft.AspNetCore.Mvc.Formatters.Json, Version=3.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.get_Signature()
+   at System.Reflection.RuntimeConstructorInfo.GetParametersNoCopy()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2020-05-19 17:08:32,365 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-05-19 17:08:32,391 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-05-19 17:08:32,397 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\wuliyangyang\source\repos\学习测试\YY.AspNetCore\YY.AspNetCore.WebDemo
+2020-05-19 17:08:32,663 [9] INFO  YY.AspNetCore.WebDemo.Utility.Filters.CustomAuthorizeActionFilterAttribute - currentUrl:/

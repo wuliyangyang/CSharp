@@ -1,0 +1,31 @@
+﻿@using YY.Web.Core;
+@using YY.Framework.SessionExt;
+
+@{
+    CurrentUser currentUser = base.Context.User.Identity.Name == null ? null : new CurrentUser()
+    {
+        Name = base.Context.User.Identity.Name,
+    };
+
+    //CurrentUser currentUser = (CurrentUser)base.Context.Session.GetObject("CurrentUser");//基于filter
+}
+@if (currentUser != null)
+{
+    using (Html.BeginForm("Logout", "Login", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("你好 " + currentUser.Name + "!", "Index", "Home", routeValues: null, htmlAttributes: new { title = currentUser.Name })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">注销</a></li>
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("登录", "Login", "Login", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

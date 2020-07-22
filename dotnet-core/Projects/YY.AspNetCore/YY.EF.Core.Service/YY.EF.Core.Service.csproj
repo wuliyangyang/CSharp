@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YY.EF.Core.Interface\YY.EF.Core.Interface.csproj" />
+    <ProjectReference Include="..\YY.EF.Core.Model\YY.EF.Core.Model.csproj" />
+  </ItemGroup>
+
+</Project>

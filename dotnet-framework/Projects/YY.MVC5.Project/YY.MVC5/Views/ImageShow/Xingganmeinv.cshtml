@@ -1,0 +1,27 @@
+﻿@using YY.EF.Models;
+@using PagedList.Mvc;
+@using PagedList;
+@using System.Web.Mvc.Html;
+
+@model StaticPagedList<Xingganmeinv>
+
+@{
+    ViewBag.Title = "Xingganmeinv";
+}
+
+@using (Html.BeginForm("Xingganmeinv", "ImageShow"))
+{
+    <h2>
+        <a href="~/ImageName/index/?group=性感美女">性感美女</a>
+    </h2>
+    <h3>
+        @ViewBag.Name (@Model.PageNumber)
+    </h3>
+    <div id="partialajaxlist">
+        <img src=@Url.Action("GetImage",new { pageIndex = Model.PageNumber}) />
+        <br>
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+        @Html.PagedListPager(Model, pageIndex => Url.Action("Xingganmeinv",
+        new { pageIndex ,title=ViewBag.ImageTitle}))
+    </div>
+}

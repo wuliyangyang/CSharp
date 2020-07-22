@@ -1,0 +1,15 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\YY.Framework.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\YY.Framework.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\log4net.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\log4net.xml
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\YY.Framework.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\YY.Framework.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\log4net.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\bin\Debug\log4net.xml
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.MVC5.Project\YY.Framework\obj\Debug\YY.Framework.csprojAssemblyReference.cache
