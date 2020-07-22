@@ -1,0 +1,13 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\YY.EF.Models.dll.config
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\YY.EF.Models.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\YY.EF.Models.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\EntityFramework.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\EntityFramework.xml
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\obj\Debug\YY.EF.Models.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\obj\Debug\YY.EF.Models.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\obj\Debug\YY.EF.Models.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.EF.Models\obj\Debug\YY.EF.Models.csprojAssemblyReference.cache

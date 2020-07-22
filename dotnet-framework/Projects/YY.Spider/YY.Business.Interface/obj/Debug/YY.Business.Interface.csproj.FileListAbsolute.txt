@@ -1,0 +1,5 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.Business.Interface\bin\Debug\YY.Business.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.Business.Interface\bin\Debug\YY.Business.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.Business.Interface\obj\Debug\YY.Business.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.Business.Interface\obj\Debug\YY.Business.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.Spider\YY.Business.Interface\obj\Debug\YY.Business.Interface.csprojAssemblyReference.cache
