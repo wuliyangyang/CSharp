@@ -1,0 +1,51 @@
+G:\测试程序\c#\ui\ui\bin\Debug\ui.exe
+G:\测试程序\c#\ui\ui\bin\Debug\ui.pdb
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\测试程序\c#\ui\ui\obj\x86\Debug\MainWindow.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\windows.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\App.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\MainWindow.g.cs
+G:\测试程序\c#\ui\ui\obj\x86\Debug\App.g.cs
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ui_MarkupCompile.cache
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ui.g.resources
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ui.Properties.Resources.resources
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ui.exe
+G:\测试程序\c#\ui\ui\obj\x86\Debug\ui.pdb
+G:\测试程序\c#\ui\ui\obj\x86\Debug\StatusBar.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\Tab.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\Tabitem.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\Button.baml
+G:\测试程序\c#\ui\ui\bin\Debug\ui.exe.config
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\测试程序\c#\ui\ui\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\测试程序\c#\ui\ui\bin\Debug\Microsoft.Expression.Drawing.xml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource.read.0.tlog
+G:\测试程序\c#\ui\ui\obj\x86\Debug\GenerateResource.write.0.tlog
+G:\测试程序\c#\ui\ui\obj\x86\Debug\menu.baml
+G:\测试程序\c#\ui\ui\obj\x86\Debug\list.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\bin\Debug\ui.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\bin\Debug\ui.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\bin\Debug\ui.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\Button.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\list.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\MainWindow.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\menu.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\StatusBar.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\Tab.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\Tabitem.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\windows.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\App.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\App.g.cs
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui_MarkupCompile.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.g.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\ui\ui\ui\obj\x86\Debug\ui.pdb

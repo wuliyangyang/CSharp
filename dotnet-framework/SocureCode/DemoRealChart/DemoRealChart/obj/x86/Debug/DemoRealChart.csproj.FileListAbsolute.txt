@@ -1,0 +1,17 @@
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\bin\Debug\DemoRealChart.pdb
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+D:\SoftWare\MyProject\DemoHtml5\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoRealChart.exe
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoRealChart.pdb
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\bin\Debug\DemoRealChart.exe
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\bin\Debug\DemoRealChart.pdb
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoRealChart.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoRealChart.Properties.Resources.resources
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoSharp.RealChart.resources
+C:\Users\wiliyangyang\Downloads\DemoRealChart\DemoRealChart\obj\x86\Debug\DemoRealChart.csproj.GenerateResource.Cache

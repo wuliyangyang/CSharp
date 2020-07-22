@@ -1,0 +1,17 @@
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlotExampleBrowser.exe.config
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlotExampleBrowser.exe
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlotExampleBrowser.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlotDemoLibs.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlotDemoLibs.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.xml
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.Form1.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.Properties.Resources.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.exe
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotExample\obj\Debug\OxyPlotExampleBrowser.pdb

@@ -1,0 +1,28 @@
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlotWinform.exe.config
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlotWinform.exe
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlotWinform.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.xml
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmAreaSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmBarSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmBoxPlotSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmCandleStickSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmColumnSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmLineSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmMain.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmMultipleLineSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmPieSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmStairStepSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.FrmTwoColorLineSeries.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.Properties.Resources.resources
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.exe
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\OxyPlotWinform\Src\OxyPlotWinform\bin\Debug\OxyPlotWinform.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\源码\OxyPlotWinform\Src\OxyPlotWinform\obj\Debug\OxyPlotWinform.pdb

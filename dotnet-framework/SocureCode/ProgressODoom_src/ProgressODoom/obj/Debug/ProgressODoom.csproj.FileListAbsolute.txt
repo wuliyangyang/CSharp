@@ -1,0 +1,5 @@
+C:\Users\wiliyangyang\Downloads\ProgressODoom_src\ProgressODoom\bin\Debug\ProgressODoom.dll
+C:\Users\wiliyangyang\Downloads\ProgressODoom_src\ProgressODoom\bin\Debug\ProgressODoom.pdb
+C:\Users\wiliyangyang\Downloads\ProgressODoom_src\ProgressODoom\obj\Debug\ProgressODoom.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\ProgressODoom_src\ProgressODoom\obj\Debug\ProgressODoom.dll
+C:\Users\wiliyangyang\Downloads\ProgressODoom_src\ProgressODoom\obj\Debug\ProgressODoom.pdb

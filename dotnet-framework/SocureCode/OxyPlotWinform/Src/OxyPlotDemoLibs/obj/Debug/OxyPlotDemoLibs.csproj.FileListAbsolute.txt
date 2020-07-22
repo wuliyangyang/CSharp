@@ -1,0 +1,8 @@
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\bin\Debug\OxyPlotDemoLibs.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\bin\Debug\OxyPlotDemoLibs.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\bin\Debug\OxyPlot.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\bin\Debug\OxyPlot.pdb
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\bin\Debug\OxyPlot.xml
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\obj\Debug\OxyPlotDemoLibs.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\obj\Debug\OxyPlotDemoLibs.dll
+C:\Users\wiliyangyang\Downloads\sesametech-group-OxyPlotWinform-master\OxyPlotWinform\Src\OxyPlotDemoLibs\obj\Debug\OxyPlotDemoLibs.pdb

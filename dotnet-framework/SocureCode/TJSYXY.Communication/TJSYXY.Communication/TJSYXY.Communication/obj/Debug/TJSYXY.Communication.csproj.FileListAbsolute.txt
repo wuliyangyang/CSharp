@@ -1,0 +1,11 @@
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.dll
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TJSYXY.Communication\obj\Debug\TJSYXY.Communication.dll
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TJSYXY.Communication\obj\Debug\TJSYXY.Communication.pdb
+D:\周智2011\公司通用库\新版通讯20150720\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.XML
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.XML
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.dll
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\bin\Debug\TJSYXY.Communication.pdb
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\obj\Debug\TJSYXY.Communication.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\obj\Debug\TJSYXY.Communication.dll
+C:\Users\wiliyangyang\Downloads\TJSYXY.Communication\TJSYXY.Communication\TJSYXY.Communication\obj\Debug\TJSYXY.Communication.pdb
