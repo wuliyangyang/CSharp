@@ -1,0 +1,13 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\bin\Debug\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\bin\Debug\Faker.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\Faker.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\FakerLib.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\Faker.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\Faker.dll
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\Faker.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\FakerLib\obj\Debug\FakerLib.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\FakerLib\obj\Debug\FakerLib.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\FakerLib\obj\Debug\Faker.dll
+C:\Users\wuliyang\Source\Repos\MyLib\FakerLib\obj\Debug\Faker.pdb

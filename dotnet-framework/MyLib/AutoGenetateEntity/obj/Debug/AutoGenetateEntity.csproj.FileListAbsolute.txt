@@ -1,0 +1,7 @@
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\bin\Debug\实体类生成.exe.config
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\bin\Debug\实体类生成.exe
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\bin\Debug\实体类生成.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\obj\Debug\AutoGenetateEntity.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\obj\Debug\AutoGenetateEntity.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\obj\Debug\实体类生成.exe
+C:\Users\wuliyang\Source\Repos\MyLib\AutoGenetateEntity\obj\Debug\实体类生成.pdb

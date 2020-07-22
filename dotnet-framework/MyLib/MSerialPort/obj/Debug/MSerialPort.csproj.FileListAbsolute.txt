@@ -1,0 +1,18 @@
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\bin\Debug\MSerialPort.exe.config
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\bin\Debug\MSerialPort.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\bin\Debug\MSerialPort.pdb
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\obj\Debug\MSerialPort.csprojResolveAssemblyReference.cache
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\obj\Debug\MSerialPort.Properties.Resources.resources
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\obj\Debug\MSerialPort.csproj.GenerateResource.Cache
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\obj\Debug\MSerialPort.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyLib\MSerialPort\obj\Debug\MSerialPort.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\bin\Debug\MSerialPort.exe.config
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\bin\Debug\MSerialPort.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\bin\Debug\MSerialPort.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.Properties.Resources.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.csproj.GenerateResource.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MSerialPort\obj\Debug\MSerialPort.pdb

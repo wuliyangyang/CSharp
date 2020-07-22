@@ -1,0 +1,14 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\LogLibYY\bin\Debug\LogLib.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\LogLibYY\bin\Debug\LogLib.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\LogLibYY\obj\Debug\LogLib.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\LogLibYY\obj\Debug\LogLib.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\LogLib.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\LogLib.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\LogLibYY\obj\Debug\LogLib.csprojResolveAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\LogLib.dll
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\LogLib.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\LogLibYY\obj\Debug\LogLib.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\LogLibYY\obj\Debug\LogLib.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\LogLibYY\obj\Debug\LogLib.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\MyLib\LogLibYY\obj\Debug\LogLib.dll
+C:\Users\wuliyang\Source\Repos\MyLib\LogLibYY\obj\Debug\LogLib.pdb

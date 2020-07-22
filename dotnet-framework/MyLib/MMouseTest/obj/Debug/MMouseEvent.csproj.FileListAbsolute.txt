@@ -1,0 +1,29 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\bin\Debug\MMouseTest.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\bin\Debug\MMouseTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\bin\Debug\MMouseTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MainWindow.g.cs
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\App.g.cs
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest_MarkupCompile.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest_MarkupCompile.lref
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MainWindow.baml
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest.g.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseEvent.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseTest.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MMouseTest\obj\Debug\MMouseEvent.csprojResolveAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\bin\Debug\MMouseTest.exe.config
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\bin\Debug\MMouseTest.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\bin\Debug\MMouseTest.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseEvent.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MainWindow.g.cs
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\App.g.cs
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest_MarkupCompile.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest_MarkupCompile.lref
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MainWindow.baml
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest.g.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest.Properties.Resources.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseEvent.csproj.GenerateResource.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseEvent.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MMouseTest\obj\Debug\MMouseTest.pdb

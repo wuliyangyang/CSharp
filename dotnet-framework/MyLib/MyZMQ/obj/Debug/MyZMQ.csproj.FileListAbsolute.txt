@@ -1,0 +1,31 @@
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\bin\Debug\MyZMQ.exe.config
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\bin\Debug\MyZMQ.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\bin\Debug\MyZMQ.pdb
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.Form1.resources
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.Properties.Resources.resources
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.csproj.GenerateResource.Cache
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.exe
+c:\users\wiliyangyang\documents\visual studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyZMQ\MyZMQ\obj\Debug\MyZMQ.Form2.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\bin\Debug\MyZMQ.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\bin\Debug\MyZMQ.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\bin\Debug\MyZMQ.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.Form1.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.Form2.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.Properties.Resources.resources
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.csproj.GenerateResource.Cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyZMQ\obj\Debug\MyZMQ.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\bin\Debug\MyZMQ.exe.config
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\bin\Debug\MyZMQ.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\bin\Debug\MyZMQ.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.Form1.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.Form2.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.Properties.Resources.resources
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.csproj.GenerateResource.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.exe
+C:\Users\wuliyang\Source\Repos\MyLib\MyZMQ\obj\Debug\MyZMQ.pdb

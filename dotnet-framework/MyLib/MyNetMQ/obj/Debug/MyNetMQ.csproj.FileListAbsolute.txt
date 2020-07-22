@@ -1,0 +1,4 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\bin\Debug\MNetMQ.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\bin\Debug\MNetMQ.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\obj\Debug\MNetMQ.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\obj\Debug\MNetMQ.pdb

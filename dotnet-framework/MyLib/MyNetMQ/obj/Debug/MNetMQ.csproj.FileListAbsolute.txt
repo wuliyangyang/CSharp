@@ -1,0 +1,14 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\bin\Debug\MNetMQ.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\bin\Debug\MNetMQ.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\obj\Debug\MNetMQ.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\obj\Debug\MNetMQ.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\MyNetMQ\obj\Debug\MNetMQ.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\MNetMQ.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\Libs\MNetMQ.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\MNetMQ.dll
+C:\Users\wuliyang\Source\Repos\MyLib\Libs\MNetMQ.pdb
+C:\Users\wuliyang\Source\Repos\MyLib\MyNetMQ\obj\Debug\MNetMQ.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MyNetMQ\obj\Debug\MNetMQ.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\MyLib\MyNetMQ\obj\Debug\MNetMQ.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\MyLib\MyNetMQ\obj\Debug\MNetMQ.dll
+C:\Users\wuliyang\Source\Repos\MyLib\MyNetMQ\obj\Debug\MNetMQ.pdb

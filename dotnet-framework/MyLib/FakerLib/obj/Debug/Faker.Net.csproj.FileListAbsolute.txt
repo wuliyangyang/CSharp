@@ -1,0 +1,10 @@
+C:\Users\wiliyangyang\Downloads\Faker.Net-master\Faker.Net-master\bin\Debug\Faker.dll
+C:\Users\wiliyangyang\Downloads\Faker.Net-master\Faker.Net-master\bin\Debug\Faker.pdb
+C:\Users\wiliyangyang\Downloads\Faker.Net-master\Faker.Net-master\Faker.Net\obj\Debug\Faker.Net.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Downloads\Faker.Net-master\Faker.Net-master\Faker.Net\obj\Debug\Faker.dll
+C:\Users\wiliyangyang\Downloads\Faker.Net-master\Faker.Net-master\Faker.Net\obj\Debug\Faker.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\bin\Debug\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\bin\Debug\Faker.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\Faker.Net.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\Faker.dll
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\MyLib\FakerLib\obj\Debug\Faker.pdb
