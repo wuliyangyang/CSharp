@@ -1,0 +1,11 @@
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\bin\Debug\netcoreapp3.1\SpiderBase.deps.json
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\bin\Debug\netcoreapp3.1\SpiderBase.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\bin\Debug\netcoreapp3.1\SpiderBase.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderBase\obj\Debug\netcoreapp3.1\SpiderBase.csproj.CopyComplete

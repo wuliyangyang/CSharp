@@ -1,0 +1,35 @@
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderBase.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.deps.json
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderBase.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\SpiderPlugin\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.deps.json
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderPlugin.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderBase.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\bin\Debug\netcoreapp3.1\SpiderBase.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework - 副本\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.pdb
+C:\Users\wuliyangyang\source\repos\SpiderTest\netcoreapp3.1\Plugins\netcoreapp3.1\SpiderPlugin.deps.json
+C:\Users\wuliyangyang\source\repos\SpiderTest\netcoreapp3.1\Plugins\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderTest\netcoreapp3.1\Plugins\netcoreapp3.1\SpiderPlugin.pdb
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.dll
+C:\Users\wuliyangyang\source\repos\SpiderTest\SpiderPlugin\obj\Debug\netcoreapp3.1\SpiderPlugin.pdb

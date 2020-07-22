@@ -1,0 +1,8 @@
+2020-07-22 13:57:23,477 [1] INFO  Common.Logger - 系统初始化Logger模块
+2020-07-22 13:57:23,490 [1] INFO  SpiderFramework.Program - Hello World!
+2020-07-22 13:59:47,881 [1] INFO  Common.Logger - 系统初始化Logger模块
+2020-07-22 13:59:47,908 [1] INFO  SpiderFramework.Program - Hello World!
+2020-07-22 14:03:41,197 [1] INFO  Common.Logger - 系统初始化Logger模块
+2020-07-22 14:03:41,219 [1] INFO  SpiderFramework.Program - Hello World!
+2020-07-22 14:06:02,784 [1] INFO  Common.Logger - 系统初始化Logger模块
+2020-07-22 14:06:02,807 [1] INFO  SpiderFramework.Program - Hello World!

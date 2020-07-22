@@ -1,0 +1,8 @@
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wuliyangyang\source\repos\SpiderFramework\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
