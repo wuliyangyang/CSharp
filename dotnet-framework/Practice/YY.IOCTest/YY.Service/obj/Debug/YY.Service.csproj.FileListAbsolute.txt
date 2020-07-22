@@ -1,0 +1,16 @@
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\bin\Debug\YY.Service.dll
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\bin\Debug\YY.Service.pdb
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\bin\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\bin\Debug\YY.Interface.pdb
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\obj\Debug\YY.Service.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\obj\Debug\YY.Service.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\obj\Debug\YY.Service.dll
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Service\obj\Debug\YY.Service.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\bin\Debug\YY.Service.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\bin\Debug\YY.Service.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\bin\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\bin\Debug\YY.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\obj\Debug\YY.Service.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\obj\Debug\YY.Service.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\obj\Debug\YY.Service.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Service\obj\Debug\YY.Service.pdb

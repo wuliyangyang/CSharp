@@ -1,0 +1,10 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Models\bin\Debug\YY.WCF.Models.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Models\bin\Debug\YY.WCF.Models.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Models\bin\Debug\YY.WCF.Models.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Models\bin\Debug\YY.WCF.Models.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Models\obj\Debug\YY.WCF.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\bin\Debug\ADO.Net学习.exe.config
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\bin\Debug\ADO.Net学习.exe
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\bin\Debug\ADO.Net学习.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\obj\Debug\ADO.Net学习.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\obj\Debug\ADO.Net学习.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\obj\Debug\ADO.Net学习.exe
+C:\Users\wuliyang\Source\Repos\VIP课程学习\ADO.Net学习\obj\Debug\ADO.Net学习.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\bin\Debug\ADO.Net学习.exe.config
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\bin\Debug\ADO.Net学习.exe
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\bin\Debug\ADO.Net学习.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\obj\Debug\ADO.Net学习.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\obj\Debug\ADO.Net学习.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\obj\Debug\ADO.Net学习.exe
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\ADO.Net学习\obj\Debug\ADO.Net学习.pdb

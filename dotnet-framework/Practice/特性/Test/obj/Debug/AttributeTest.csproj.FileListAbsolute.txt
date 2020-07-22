@@ -1,0 +1,7 @@
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\bin\Debug\Test.exe.config
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\bin\Debug\Test.exe
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\bin\Debug\Test.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\obj\Debug\AttributeTest.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\obj\Debug\AttributeTest.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\obj\Debug\Test.exe
+C:\Users\wuliyang\Source\Repos\学习测试\特性\Test\obj\Debug\Test.pdb

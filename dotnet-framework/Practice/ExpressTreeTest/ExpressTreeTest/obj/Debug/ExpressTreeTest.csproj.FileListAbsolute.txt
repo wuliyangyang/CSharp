@@ -1,0 +1,7 @@
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\bin\Debug\ExpressTreeTest.exe.config
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\bin\Debug\ExpressTreeTest.exe
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\bin\Debug\ExpressTreeTest.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\obj\Debug\ExpressTreeTest.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\obj\Debug\ExpressTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\obj\Debug\ExpressTreeTest.exe
+C:\Users\wuliyang\Source\Repos\学习测试\ExpressTreeTest\ExpressTreeTest\obj\Debug\ExpressTreeTest.pdb

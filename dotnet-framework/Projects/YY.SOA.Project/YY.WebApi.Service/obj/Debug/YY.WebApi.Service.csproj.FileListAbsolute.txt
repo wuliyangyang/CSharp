@@ -1,0 +1,16 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Service.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Service.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.csproj.CopyComplete
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Service.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Service.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Interface.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\bin\Debug\YY.WebApi.Interface.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WebApi.Service\obj\Debug\YY.WebApi.Service.pdb

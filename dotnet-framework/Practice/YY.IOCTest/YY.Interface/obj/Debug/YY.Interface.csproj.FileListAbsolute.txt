@@ -1,0 +1,9 @@
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Interface\bin\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Interface\bin\Debug\YY.Interface.pdb
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Interface\obj\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\YY.IOCTest\YY.Interface\obj\Debug\YY.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Interface\bin\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Interface\bin\Debug\YY.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Interface\obj\Debug\YY.Interface.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Interface\obj\Debug\YY.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.IOCTest\YY.Interface\obj\Debug\YY.Interface.pdb

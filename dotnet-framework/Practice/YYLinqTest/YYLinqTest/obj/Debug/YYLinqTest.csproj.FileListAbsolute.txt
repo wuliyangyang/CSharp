@@ -1,0 +1,7 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\bin\Debug\YYLinqTest.exe.config
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\bin\Debug\YYLinqTest.exe
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\bin\Debug\YYLinqTest.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\obj\Debug\YYLinqTest.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\obj\Debug\YYLinqTest.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\obj\Debug\YYLinqTest.exe
+C:\Users\wuliyang\Source\Repos\学习测试\YYLinqTest\YYLinqTest\obj\Debug\YYLinqTest.pdb

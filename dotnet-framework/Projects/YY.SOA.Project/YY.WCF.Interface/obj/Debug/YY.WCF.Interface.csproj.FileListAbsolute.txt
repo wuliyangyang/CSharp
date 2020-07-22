@@ -1,0 +1,16 @@
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Models.dll
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Models.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Interface.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Interface.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Models.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\bin\Debug\YY.WCF.Models.pdb
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.csproj.CopyComplete
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.dll
+C:\Users\wuliyangyang\source\repos\学习测试\YY.SOA.Project\YY.WCF.Interface\obj\Debug\YY.WCF.Interface.pdb

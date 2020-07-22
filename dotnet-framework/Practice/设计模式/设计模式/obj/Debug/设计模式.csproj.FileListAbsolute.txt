@@ -1,0 +1,6 @@
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\bin\Debug\设计模式.exe.config
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\bin\Debug\设计模式.exe
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\bin\Debug\设计模式.pdb
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\obj\Debug\设计模式.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\obj\Debug\设计模式.exe
+C:\Users\wuliyang\Source\Repos\学习测试\设计模式\设计模式\obj\Debug\设计模式.pdb

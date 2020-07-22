@@ -1,0 +1,12 @@
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\bin\Debug\Common.dll
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\bin\Debug\Common.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\obj\Debug\Common.dll
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\obj\Debug\Common.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\bin\Debug\Common.dll
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\bin\Debug\Common.pdb
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\obj\Debug\Common.dll
+C:\Users\wuliyang\Source\Repos\VIP课程学习之ADO\Common\obj\Debug\Common.pdb
