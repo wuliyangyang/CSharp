@@ -1,0 +1,6 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\bin\Debug\反射.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\bin\Debug\反射.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\bin\Debug\反射.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\obj\Debug\反射.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\obj\Debug\反射.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\反射\obj\Debug\反射.pdb

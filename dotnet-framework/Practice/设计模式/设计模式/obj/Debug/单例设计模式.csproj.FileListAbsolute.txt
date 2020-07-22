@@ -1,0 +1,6 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\bin\Debug\设计模式.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\bin\Debug\设计模式.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\bin\Debug\设计模式.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\obj\Debug\单例设计模式.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\obj\Debug\设计模式.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\设计模式\obj\Debug\设计模式.pdb

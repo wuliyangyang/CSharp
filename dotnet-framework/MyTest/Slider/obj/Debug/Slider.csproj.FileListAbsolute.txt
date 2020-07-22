@@ -1,0 +1,9 @@
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\bin\Debug\Slider.exe.config
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\bin\Debug\Slider.exe
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\bin\Debug\Slider.pdb
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.Form1.resources
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.exe
+C:\Users\wuliyangyang\source\repos\TestForPractice\Slider\obj\Debug\Slider.pdb

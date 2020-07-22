@@ -1,0 +1,6 @@
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\bin\Debug\抽象工厂方法.exe.config
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\bin\Debug\抽象工厂方法.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\bin\Debug\抽象工厂方法.pdb
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\obj\Debug\抽象工厂方法.csprojResolveAssemblyReference.cache
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\obj\Debug\抽象工厂方法.exe
+C:\Users\wiliyangyang\Documents\Visual Studio 2015\Projects\设计模式\抽象工厂方法\obj\Debug\抽象工厂方法.pdb
