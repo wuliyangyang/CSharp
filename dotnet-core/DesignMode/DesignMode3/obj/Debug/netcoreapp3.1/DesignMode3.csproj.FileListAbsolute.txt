@@ -1,0 +1,11 @@
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.exe
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.deps.json
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.runtimeconfig.json
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.runtimeconfig.dev.json
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.dll
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\bin\Debug\netcoreapp3.1\DesignMode3.pdb
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\obj\Debug\netcoreapp3.1\DesignMode3.AssemblyInfoInputs.cache
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\obj\Debug\netcoreapp3.1\DesignMode3.AssemblyInfo.cs
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\obj\Debug\netcoreapp3.1\DesignMode3.dll
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\obj\Debug\netcoreapp3.1\DesignMode3.pdb
+C:\Users\wuliyangyang\source\repos\DesignMode\DesignMode3\obj\Debug\netcoreapp3.1\DesignMode3.csprojAssemblyReference.cache
